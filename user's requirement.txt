@@ -1,0 +1,17 @@
+i want to make a mobile app 
+using kotlin composer and every page will be showed by preview to check
+
+features:
+first it will ask i give a link or a copied message 
+if this is a link then it fetch the data from there ,
+if copied text is given then then fetch the data from there 
+like 
+a. submission deadline 
+b. apply link or email
+c. salary range 
+d. in which stack like ai engineer ,ml engineer ,full-stack, backend etc.
+e. company name 
+f. onsite or remote
+g. company type multinational or native company
+i. if user want then give cover letter
+j. if the deadline is near then give notification

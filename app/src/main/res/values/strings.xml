@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JobReminder</string>
+    <string name="login_title">Welcome to JobReminder</string>
+    <string name="login_subtitle">Sign in to sync your job applications across devices</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="home_title">My Jobs</string>
+    <string name="add_job_title">Add New Job</string>
+    <string name="smart_input_title">Smart Job Input</string>
+    <string name="paste_link">Paste Job Link</string>
+    <string name="paste_text">Paste Job Description</string>
+    <string name="parse_button">Parse Job</string>
+    <string name="parsing_loading">Analyzing job posting...</string>
+    <string name="save_job">Save Job</string>
+    <string name="generate_cover_letter">Generate Cover Letter</string>
+    <string name="job_detail_title">Job Details</string>
+    <string name="resume_title">My Resume</string>
+    <string name="settings_title">Settings</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="filter_jobs">Filter Jobs</string>
+    <string name="search_jobs">Search Jobs</string>
+    <string name="deadline_near">Closing Soon</string>
+    <string name="applied">Applied</string>
+    <string name="under_review">Under Review</string>
+    <string name="interview">Interview</string>
+    <string name="offer">Offer</string>
+    <string name="rejected">Rejected</string>
+    <string name="company_name">Company Name</string>
+    <string name="position_title">Position Title</string>
+    <string name="salary_range">Salary Range</string>
+    <string name="apply_link">Apply Link</string>
+    <string name="deadline">Deadline</string>
+    <string name="location_type">Location Type</string>
+    <string name="company_type">Company Type</string>
+    <string name="remote">Remote</string>
+    <string name="onsite">Onsite</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="multinational">Multinational</string>
+    <string name="startup">Startup</string>
+    <string name="native_company">Native</string>
+</resources>
